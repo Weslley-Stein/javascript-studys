@@ -8,7 +8,6 @@ const names = ['Mary', 'John', 'Eduardo', 'Gabriel','Julia']
 
 //Exemple: names.splice(0, 2, 'Weslley') the result is:
 //['Weslley', 'Weslley', 'Eduardo', 'Gabriel', 'Julia']
-
 //our names.splice(0,2, 'Weslley', 'Stein'), result:
 //['Weslley', 'Stein', 'Eduardo', 'Gabriel', 'Julia']
 
